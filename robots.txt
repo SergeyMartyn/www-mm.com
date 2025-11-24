@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /public/
+Disallow: /parts/
+Disallow: /layout/
+Allow: /
+Sitemap: https://margaritamartyn.com/sitemap.xml
